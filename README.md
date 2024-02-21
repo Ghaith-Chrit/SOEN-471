@@ -1,16 +1,16 @@
 #   Wildfire Image Classification Project
 
 ## Team Members
-- Ghaith Chrit (Ghaith-Chrit)
-- James Partsafas (JamesPartsafas)
-- Kenny Phan (kennyphan100)
-- Guillermo Tremols (KubrayKan)
+- Ghaith Chrit (Ghaith-Chrit) - 40114180 
+- James Partsafas (JamesPartsafas) - 40170301 
+- Kenny Phan (kennyphan100) - 40164827 
+- Guillermo Tremols (KubrayKan) - 40216051 
 
 ## Project Summary
 
 ### Project Definition
 
-The project aims to develop a robust model for classifying wildfire images from various angles. The primary objective is to empirically evaluate and compare the performance of different models in classifying images as containing fire or not. Two main classes of models will be employed: supervised models including Convolutional Neural Networks (CNN) and Vision Transformer (ViT), and an unsupervised model using K-means clustering (more models maybe added if needed). Human labels will be incorporated at the final stage of the unsupervised model.
+The project aims to develop a robust model for classifying wildfire images from various angles. The primary objective is to empirically evaluate and compare the performance of different models in classifying images as containing fire or not. Two main classes of models will be employed: supervised models including Convolutional Neural Networks (CNN) and Vision Transformer (ViT), and an unsupervised model using K-means clustering (more models may be added if needed). Human labels will be incorporated at the final stage of the unsupervised model.
 
 ### Model Design
 
