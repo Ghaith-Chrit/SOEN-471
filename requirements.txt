@@ -1,0 +1,6 @@
+torch
+torchvision
+imagehash
+matplotlib
+numpy
+scikit-learn
