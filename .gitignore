@@ -166,3 +166,4 @@ cython_debug/
 /.idea/vcs.xml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/SOEN-471.iml
+/vit_model.pth
