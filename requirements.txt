@@ -4,3 +4,4 @@ imagehash
 matplotlib
 numpy
 scikit-learn
+tdqm
