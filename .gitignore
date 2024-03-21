@@ -167,3 +167,4 @@ cython_debug/
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/SOEN-471.iml
 /vit_model.pth
+/shallownet_model.pth
